@@ -1,0 +1,31 @@
+[
+    {
+        "index": 0,
+        "timestamp": 1751302437.40694,
+        "transactions": [],
+        "previous_hash": "0",
+        "nonce": 0,
+        "hash": "2cc06632577e8be09349760408b17aa33216b01592f97f077b5a72a539a67e12"
+    },
+    {
+        "index": 1,
+        "timestamp": 1751302437.4070926,
+        "transactions": [
+            {
+                "sender": "8a82b135a7e2cf392d1bfb66221c8a8d8e68c82ab924a4f20533df2eb8558194",
+                "recipient": "Destinatario-Simbolico",
+                "amount": 10.0,
+                "signature": "304402203cd65cef74fddd5bfd47c3a13481b614883bbb58242ef62f9a222ed8ee8b6d370220482f721548f6032f431408b586fb025c85d2da89716e9513ff3f3775bc8ec920"
+            },
+            {
+                "sender": "Network",
+                "recipient": "8a82b135a7e2cf392d1bfb66221c8a8d8e68c82ab924a4f20533df2eb8558194",
+                "amount": 42.0,
+                "signature": null
+            }
+        ],
+        "previous_hash": "2cc06632577e8be09349760408b17aa33216b01592f97f077b5a72a539a67e12",
+        "nonce": 126,
+        "hash": "0009c46be9f3c1068cf819eae82bc673b0ddadb0a68356b440af563c3e776874"
+    }
+]
