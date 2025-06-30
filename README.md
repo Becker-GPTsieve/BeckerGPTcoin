@@ -13,6 +13,8 @@ This project is the result of a collaboration between Bruno Becker and OpenAI's 
 
 ## Author
 
+https://github.com/brunobecker/brunobecker.github.io
+
 **Bruno Becker**  
 📧 brunoconta1980@hotmail.com  
 📧 brunoconta1980@gmail.com  
