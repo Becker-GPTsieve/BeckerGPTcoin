@@ -16,7 +16,6 @@ This project is the result of a collaboration between Bruno Becker and OpenAI's 
 **Bruno Becker**  
 📧 brunoconta1980@hotmail.com  
 📧 brunoconta1980@gmail.com  
-📱 WhatsApp: +55 (16) 98203-3637
 
 ISBN Reference: `978-65-01-54204-1`
 
